@@ -2,14 +2,19 @@
 
 v2rayN地址
 
-美国 6月25号更新
-vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJhaCIsCiAgImFkZCI6ICJhaC45OTI2ODgueHl6IiwKICAicG9ydCI6IDgwODAsCiAgImlkIjogImY2ZjJlMjNhLTY5ZWUtNDk4ZS1iNWZhLTI3ODgyYWNjZjc4NCIsCiAgImFpZCI6IDAsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiAibm9uZSIsCiAgImhvc3QiOiAiYWguOTkyNjg4Lnh5eiIsCiAgInBhdGgiOiAiLyIsCiAgInRscyI6ICJub25lIgp9
+现有3个节点 德国1台,美国2台 2023.6.29 更新
 
-德国 6月26号更新
-vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJldTIiLAogICJhZGQiOiAiZXUyLjk5MjY4OC54eXoiLAogICJwb3J0IjogODA4MCwKICAiaWQiOiAiYmJmYTY1Y2YtMjM2ZS00ZTRmLWViM2QtYTllMTU5ZDNmOTRiIiwKICAiYWlkIjogMCwKICAibmV0IjogIndzIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICJldTIuOTkyNjg4Lnh5eiIsCiAgInBhdGgiOiAiLyIsCiAgInRscyI6ICJub25lIgp9
+v2订阅地址 : https://free.88zh.top/
+
+# 使用教程:
+
+打开v2aryN -> 订阅分组 -> 添加 -> 别名 随便 , 可选地址填写 : https://free.88zh.top/ -> 关闭  -> 订阅分组 -> 更新全部订阅(不通过代理)
 
 # V2电脑客户端
+
 https://github.com/2dust/v2rayN/releases
 
-# V2手机客户端[
+# V2手机客户端
+
 https://github.com/2dust/v2rayNG/releases
+
