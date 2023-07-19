@@ -2,9 +2,11 @@
 
 v2rayN地址
 
-现有4个节点 美国甲骨文凤凰城1台 , hax美国凤凰城2台 , 德国1台, 2023.7.16 更新
+每2小时全网抓取一次节点,并且筛选可用节点
 
 v2订阅地址 : https://free.88zh.top/
+
+电报节点机器人 https://t.me/eljsz_bot
 
 电报 https://t.me/+vTwBHA9RbtMwYzA9
 
