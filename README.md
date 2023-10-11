@@ -4,15 +4,13 @@ v2rayN免费节点地址
 
 # 每2小时全网抓取一次节点,并且筛选可用节点
 
-v2ray订阅地址---自建稳定 https://free.vpn66.eu.org/
+v2ray订阅地址---自建稳定(推荐) https://free.vpn66.eu.org/
 
 v2ray订阅地址---每2小时全网抓取一次节点 https://free.88zh.top/
 
 电报机器人 https://t.me/eljsz_bot
 
 电报 https://t.me/+vTwBHA9RbtMwYzA9
-
-博客 http://www.88zh.top
 
 # 使用教程:
 
