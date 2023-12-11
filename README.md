@@ -5,6 +5,7 @@ v2rayN免费节点地址
 # 每2小时全网抓取一次节点,并且筛选可用节点
 
 v2ray订阅地址---自建稳定(推荐) https://jc.openxai.link/
+ v2ray订阅地址---自建稳定(推荐) https://free.992688.xyz/https://raw.githubusercontent.com/eljsz/freeVPN/main/freevpn
 
 电报机器人 https://t.me/eljsz_bot
 
